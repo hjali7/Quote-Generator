@@ -1,7 +1,5 @@
 let button = document.querySelector('#new-quote');
-
 let Quote = document.querySelector('.quote');
-
 let  person = document.querySelector('.person');
 
 const Quotes = [{
